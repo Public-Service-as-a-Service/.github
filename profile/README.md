@@ -8,7 +8,7 @@ Investing the possibility to package open source solutions for public service us
 What you need to get going.
 
 ## Requirements
-Open JDX 21.x.x
+Open JDK 21.x.x
 
 Maven (latest version)
 
