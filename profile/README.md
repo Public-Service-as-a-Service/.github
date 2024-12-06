@@ -19,6 +19,9 @@ Docker environment (latest version)
 ## Contribution guidelines
 Create a PR and hope it gets accepted.
 
+## Contact
+info@psaas.se
+
 <!--
 
 **Here are some ideas to get you started:**
