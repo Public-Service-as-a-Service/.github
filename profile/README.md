@@ -1,6 +1,22 @@
 ## Hi there 👋
 
-Public Service as a Service (PSaaS)
+Public Service as a Service (PSaaS).
+Investing the possibility to package open source solutions for public service use.
+
+# Local development
+What you need to get going.
+
+## Requirements
+Open JDX 21.x.x
+
+Maven (latest version)
+
+GIT (latest version)
+
+Docker environment (latest version)
+
+## Contribution guidelines
+Create a PR and hope it gets accepted.
 
 <!--
 
