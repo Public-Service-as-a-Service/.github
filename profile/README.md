@@ -20,7 +20,7 @@ Docker environment (latest version)
 Create a PR and hope it gets accepted.
 
 ## Contact
-info@psaas.se
+per.z.persson@sundsvall.se
 
 <!--
 
